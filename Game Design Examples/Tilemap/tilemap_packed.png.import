@@ -13,8 +13,6 @@ metadata={
 source_file="res://Tilemap/tilemap_packed.png"
 dest_files=["res://.godot/imported/tilemap_packed.png-5d8ebb457d1ff11e9f61e40a79c9d55d.ctex"]
 
-[params]
-
 compress/mode=0
 compress/high_quality=false
 compress/lossy_quality=0.7
