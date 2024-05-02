@@ -8,7 +8,6 @@ For this individual assignment you will be exploring musical play and experiment
 
 This will be a screen where you press buttons, move sliders and it makes different sounds etc. It could be a toy that you give to baby brother or sister to entertain them on an ipad that makes animal sounds with pictures, or it could have more complexity and expressiveness. 
 
-Your project should demonstrate:
 
 - At least one scene with a nice looking user interface design
 - Some interactivity with buttons connected up to some code that make sounds
